@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: B2COrders
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: diana.martinez
+Implementation-Vendor-Id: com.touresBalon.b2c.orders
+Build-Jdk: 1.8.0_172
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/B2COrders
+Created-By: Maven Integration for Eclipse
+
